@@ -1,4 +1,5 @@
-# SchoolViolence_Analytics - 데이터로 바라본 서울시 학교폭력의 실태와 영향 요인 분석
+# SchoolViolence_Analytics  
+# - 데이터로 바라본 서울시 학교폭력의 실태와 영향 요인 분석
 서울시 공공데이터를 활용하여 학교폭력에 영향을 미치는 외부 요인을 분석한 프로젝트입니다.
 
 ## 📋 프로젝트 개요
@@ -53,4 +54,4 @@
 
 ## 더 자세한 내용을 알고 싶다면? 
 - [📃 Velog에서 자세한 분석 과정 보기](https://velog.io/@peng_data/%ED%95%99%EA%B5%90%ED%8F%AD%EB%A0%A5%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EB%AF%B8%EC%B9%98%EB%8A%94-%EC%99%B8%EB%B6%80%EC%9A%94%EC%9D%B8%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C)
-- [📊 프로젝트 전체 발표자료 보기]()
+- [📊 프로젝트 전체 발표자료 보기](https://drive.google.com/file/d/1V4Wkqc7T0Depbg1spnSMsPTTFyVxzQx3/view?usp=sharing)
